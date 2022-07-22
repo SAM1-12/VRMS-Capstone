@@ -1,0 +1,644 @@
+C:\Users\acer\Desktop\VRMS - Management (New Dashboard)\VRMS - Management (12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\acer\Desktop\VRMS - Management (New Dashboard)\VRMS - Management (12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\acer\Desktop\VRMS - Management (New Dashboard)\VRMS - Management (12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\acer\Documents\Visual Studio 2013\Projects\VRMS - Security (New Dashboard)\VRMS - Management (12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\Visual Studio 2013\Projects\VRMS - Security (New Dashboard)\VRMS - Management (12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\acer\Documents\Visual Studio 2013\Projects\VRMS - Security (New Dashboard)\VRMS - Management (12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\acer\Documents\Visual Studio 2013\Projects\VRMS - Security (New Dashboard)\VRMS - Management (12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\acer\Documents\Visual Studio 2013\Projects\VRMS - Security (New Dashboard)\VRMS - Management (12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\acer\Documents\Visual Studio 2013\Projects\VRMS - Security (New Dashboard)\VRMS - Management (12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\acer\Documents\Visual Studio 2013\Projects\VRMS - Security (New Dashboard)\VRMS - Management (12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\acer\Documents\Visual Studio 2013\Projects\VRMS - Security (New Dashboard)\VRMS - Management (12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\acer\Documents\Visual Studio 2013\Projects\VRMS - Security (New Dashboard)\VRMS - Management (12-01-21)\bin\Debug\AForge.xml
+C:\Users\acer\Documents\Visual Studio 2013\Projects\VRMS - Security (New Dashboard)\VRMS - Management (12-01-21)\bin\Debug\AForge.Video.xml
+C:\Users\acer\Documents\Visual Studio 2013\Projects\VRMS - Security (New Dashboard)\VRMS - Management (12-01-21)\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\acer\Documents\Visual Studio 2013\Projects\VRMS - Security (New Dashboard)\VRMS - Management (12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\acer\Documents\Visual Studio 2013\Projects\VRMS - Security (New Dashboard)\VRMS - Management (12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Entry.resources
+C:\Users\acer\Documents\Visual Studio 2013\Projects\VRMS - Security (New Dashboard)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\acer\Documents\Visual Studio 2013\Projects\VRMS - Security (New Dashboard)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\acer\Documents\Visual Studio 2013\Projects\VRMS - Security (New Dashboard)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\acer\Desktop\VRMS - Security (New Login)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\acer\Desktop\VRMS - Security (New Login)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\acer\Desktop\VRMS - Security (New Login)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\acer\Desktop\VRMS - Security (New Login)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\acer\Desktop\VRMS - Security (New Login)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\acer\Desktop\VRMS - Security (New Login)\VRMS - Security(12-01-21)\bin\Debug\AForge.xml
+C:\Users\acer\Desktop\VRMS - Security (New Login)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.xml
+C:\Users\acer\Desktop\VRMS - Security (New Login)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\acer\Desktop\VRMS - Security (New Login)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\VRMS - Security (New Login)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Entry.resources
+C:\Users\acer\Desktop\VRMS - Security (New Login)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\acer\Desktop\VRMS - Security (New Login)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\acer\Desktop\VRMS - Security (New Login)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+E:\2-28-22\VRMS - Security (New Login)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+E:\2-28-22\VRMS - Security (New Login)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+E:\2-28-22\VRMS - Security (New Login)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\2-28-22\VRMS - Security (New Login)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\QCU\Desktop\2-28-22\VRMS - Security (New Login)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\2-28-22\VRMS - Security (New Login)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\2-28-22\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\QCU\Desktop\2-28-22\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\2-28-22\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\2-28-22\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\2-28-22\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\2-28-22\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\AForge.xml
+C:\Users\QCU\Desktop\2-28-22\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.xml
+C:\Users\QCU\Desktop\2-28-22\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\QCU\Desktop\2-28-22\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\QCU\Desktop\2-28-22\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Entry.resources
+C:\Users\QCU\Desktop\2-28-22\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\QCU\Desktop\2-28-22\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\QCU\Desktop\2-28-22\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\2-28-22\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.ScanningDisplay.resources
+C:\Users\QCU\OneDrive\Desktop\01 Security\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\QCU\OneDrive\Desktop\01 Security\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\QCU\OneDrive\Desktop\01 Security\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\QCU\OneDrive\Desktop\01 Security\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\QCU\OneDrive\Desktop\01 Security\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\QCU\OneDrive\Desktop\01 Security\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\AForge.xml
+C:\Users\QCU\OneDrive\Desktop\01 Security\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.xml
+C:\Users\QCU\OneDrive\Desktop\01 Security\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\QCU\OneDrive\Desktop\01 Security\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\QCU\OneDrive\Desktop\01 Security\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Entry.resources
+C:\Users\QCU\OneDrive\Desktop\01 Security\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\QCU\OneDrive\Desktop\01 Security\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\QCU\OneDrive\Desktop\01 Security\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.ScanningDisplay.resources
+C:\Users\QCU\OneDrive\Desktop\01 Security\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\QCU\OneDrive\Desktop\01 Security\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\QCU\OneDrive\Desktop\01 Security\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.DisplayExit.resources
+C:\Users\QCU\Desktop\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\QCU\Desktop\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\AForge.xml
+C:\Users\QCU\Desktop\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.xml
+C:\Users\QCU\Desktop\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\QCU\Desktop\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\QCU\Desktop\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.DisplayExit.resources
+C:\Users\QCU\Desktop\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Entry.resources
+C:\Users\QCU\Desktop\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\QCU\Desktop\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\QCU\Desktop\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\QCU\Desktop\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\QCU\Desktop\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.ScanningDisplay.resources
+C:\Users\QCU\Desktop\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\03-03-22\02 Security\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\QCU\Desktop\03-03-22\02 Security\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\03-03-22\02 Security\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\03-03-22\02 Security\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\QCU\Desktop\03-03-22\02 Security\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.DisplayExit.resources
+C:\Users\QCU\Desktop\03-03-22\02 Security\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\QCU\Desktop\03-03-22\02 Security\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\QCU\Desktop\03-03-22\02 Security\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\QCU\Desktop\03-03-22\02 Security\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\QCU\Desktop\03-03-22\02 Security\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\03-03-22\02 Security\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\03-03-22\02 Security\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\03-03-22\02 Security\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\AForge.xml
+C:\Users\QCU\Desktop\03-03-22\02 Security\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.xml
+C:\Users\QCU\Desktop\03-03-22\02 Security\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\QCU\Desktop\03-03-22\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\QCU\Desktop\03-03-22\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\03-03-22\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\03-03-22\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\03-03-22\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\03-03-22\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\AForge.xml
+C:\Users\QCU\Desktop\03-03-22\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.xml
+C:\Users\QCU\Desktop\03-03-22\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\QCU\Desktop\03-03-22\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\QCU\Desktop\03-03-22\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.DisplayExit.resources
+C:\Users\QCU\Desktop\03-03-22\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\QCU\Desktop\03-03-22\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\QCU\Desktop\03-03-22\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\QCU\Desktop\03-03-22\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\QCU\Desktop\03-03-22\02 Security - Copy\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\03-03-22\02 Security (Try ng Saving)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\QCU\Desktop\03-03-22\02 Security (Try ng Saving)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\03-03-22\02 Security (Try ng Saving)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\03-03-22\02 Security (Try ng Saving)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\03-03-22\02 Security (Try ng Saving)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\03-03-22\02 Security (Try ng Saving)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\AForge.xml
+C:\Users\QCU\Desktop\03-03-22\02 Security (Try ng Saving)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.xml
+C:\Users\QCU\Desktop\03-03-22\02 Security (Try ng Saving)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\QCU\Desktop\03-03-22\02 Security (Try ng Saving)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\QCU\Desktop\03-03-22\02 Security (Try ng Saving)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.DisplayExit.resources
+C:\Users\QCU\Desktop\03-03-22\02 Security (Try ng Saving)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\QCU\Desktop\03-03-22\02 Security (Try ng Saving)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\QCU\Desktop\03-03-22\02 Security (Try ng Saving)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\QCU\Desktop\03-03-22\02 Security (Try ng Saving)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\QCU\Desktop\03-03-22\02 Security (Try ng Saving)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\03-03-22\02 Security (Subok ng Condition)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\QCU\Desktop\03-03-22\02 Security (Subok ng Condition)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\03-03-22\02 Security (Subok ng Condition)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\03-03-22\02 Security (Subok ng Condition)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\QCU\Desktop\03-03-22\02 Security (Subok ng Condition)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\QCU\Desktop\03-03-22\02 Security (Subok ng Condition)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\QCU\Desktop\03-03-22\02 Security (Subok ng Condition)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\QCU\Desktop\03-03-22\02 Security (Subok ng Condition)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\QCU\Desktop\03-03-22\02 Security (Subok ng Condition)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\03-03-22\02 Security (Subok ng Condition)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\03-03-22\02 Security (Subok ng Condition)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\03-03-22\02 Security (Subok ng Condition)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\AForge.xml
+C:\Users\QCU\Desktop\03-03-22\02 Security (Subok ng Condition)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.xml
+C:\Users\QCU\Desktop\03-03-22\02 Security (Subok ng Condition)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\QCU\Desktop\03-03-22\02 Security (Subok ng Condition)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\acer\Desktop\New folder - Copy\Latest Copy of System\03-03-22\02 Security (Updated)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\acer\Desktop\New folder - Copy\Latest Copy of System\03-03-22\02 Security (Updated)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\acer\Desktop\New folder - Copy\Latest Copy of System\03-03-22\02 Security (Updated)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\acer\Desktop\New folder - Copy\Latest Copy of System\03-03-22\02 Security (Updated)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\acer\Desktop\New folder - Copy\Latest Copy of System\03-03-22\02 Security (Updated)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\acer\Desktop\New folder - Copy\Latest Copy of System\03-03-22\02 Security (Updated)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\AForge.xml
+C:\Users\acer\Desktop\New folder - Copy\Latest Copy of System\03-03-22\02 Security (Updated)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.xml
+C:\Users\acer\Desktop\New folder - Copy\Latest Copy of System\03-03-22\02 Security (Updated)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\acer\Desktop\New folder - Copy\Latest Copy of System\03-03-22\02 Security (Updated)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\New folder - Copy\Latest Copy of System\03-03-22\02 Security (Updated)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\acer\Desktop\New folder - Copy\Latest Copy of System\03-03-22\02 Security (Updated)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\acer\Desktop\New folder - Copy\Latest Copy of System\03-03-22\02 Security (Updated)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\acer\Desktop\New folder - Copy\Latest Copy of System\03-03-22\02 Security (Updated)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\acer\Desktop\New folder - Copy\Latest Copy of System\03-03-22\02 Security (Updated)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\acer\Desktop\New folder - Copy\Latest Copy of System\03-03-22\02 Security (Updated)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\New folder - Copy\Latest Copy of System\03-03-22\02 Security (Updated)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\acer\Desktop\02 Security (x with EXIT MONITORING (try1)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\acer\Desktop\02 Security (x with EXIT MONITORING (try1)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\acer\Desktop\02 Security (x with EXIT MONITORING (try1)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\acer\Desktop\02 Security (x with EXIT MONITORING (try1)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\acer\Desktop\02 Security (x with EXIT MONITORING (try1)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\acer\Desktop\02 Security (x with EXIT MONITORING (try1)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\AForge.xml
+C:\Users\acer\Desktop\02 Security (x with EXIT MONITORING (try1)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.xml
+C:\Users\acer\Desktop\02 Security (x with EXIT MONITORING (try1)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\acer\Desktop\02 Security (x with EXIT MONITORING (try1)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\02 Security (x with EXIT MONITORING (try1)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\acer\Desktop\02 Security (x with EXIT MONITORING (try1)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\acer\Desktop\02 Security (x with EXIT MONITORING (try1)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\acer\Desktop\02 Security (x with EXIT MONITORING (try1)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\acer\Desktop\02 Security (x with EXIT MONITORING (try1)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\acer\Desktop\02 Security (x with EXIT MONITORING (try1)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\acer\Desktop\02 Security (x with EXIT MONITORING (try1)\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\QCU\Downloads\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\QCU\Downloads\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\QCU\Downloads\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\QCU\Downloads\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\QCU\Downloads\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\QCU\Downloads\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\AForge.xml
+C:\Users\QCU\Downloads\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.xml
+C:\Users\QCU\Downloads\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\QCU\Downloads\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\QCU\Downloads\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\QCU\Downloads\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\QCU\Downloads\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\QCU\Downloads\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\QCU\Downloads\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\QCU\Downloads\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\QCU\Downloads\VRMS - Security (28-02-22)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\03-03-22\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\QCU\Desktop\03-03-22\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\03-03-22\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\03-03-22\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\03-03-22\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\03-03-22\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\AForge.xml
+C:\Users\QCU\Desktop\03-03-22\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.xml
+C:\Users\QCU\Desktop\03-03-22\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\QCU\Desktop\03-03-22\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\QCU\Desktop\03-03-22\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\QCU\Desktop\03-03-22\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\QCU\Desktop\03-03-22\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\QCU\Desktop\03-03-22\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\QCU\Desktop\03-03-22\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\QCU\Desktop\03-03-22\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\QCU\Desktop\03-03-22\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\AForge.xml
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.xml
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\New folder\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\acer\Desktop\New folder\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\acer\Desktop\New folder\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\acer\Desktop\New folder\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\acer\Desktop\New folder\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\acer\Desktop\New folder\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\AForge.xml
+C:\Users\acer\Desktop\New folder\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.xml
+C:\Users\acer\Desktop\New folder\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\acer\Desktop\New folder\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\New folder\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\acer\Desktop\New folder\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\acer\Desktop\New folder\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\acer\Desktop\New folder\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\acer\Desktop\New folder\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\acer\Desktop\New folder\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\acer\Desktop\New folder\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\acer\Desktop\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\acer\Desktop\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\acer\Desktop\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\acer\Desktop\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\acer\Desktop\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\AForge.xml
+C:\Users\acer\Desktop\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.xml
+C:\Users\acer\Desktop\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\acer\Desktop\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\acer\Desktop\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\acer\Desktop\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\acer\Desktop\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\acer\Desktop\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\acer\Desktop\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\acer\Desktop\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\VRMS- inaayos na fetch\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\acer\Desktop\VRMS- inaayos na fetch\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\acer\Desktop\VRMS- inaayos na fetch\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\acer\Desktop\VRMS- inaayos na fetch\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\acer\Desktop\VRMS- inaayos na fetch\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\acer\Desktop\VRMS- inaayos na fetch\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\AForge.xml
+C:\Users\acer\Desktop\VRMS- inaayos na fetch\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.xml
+C:\Users\acer\Desktop\VRMS- inaayos na fetch\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\acer\Desktop\VRMS- inaayos na fetch\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\VRMS- inaayos na fetch\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\acer\Desktop\VRMS- inaayos na fetch\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\acer\Desktop\VRMS- inaayos na fetch\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\acer\Desktop\VRMS- inaayos na fetch\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\acer\Desktop\VRMS- inaayos na fetch\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\acer\Desktop\VRMS- inaayos na fetch\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\acer\Desktop\VRMS- inaayos na fetch\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\QCU\Downloads\VRMS- inaayos na fetch2\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\QCU\Downloads\VRMS- inaayos na fetch2\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\QCU\Downloads\VRMS- inaayos na fetch2\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\QCU\Downloads\VRMS- inaayos na fetch2\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\QCU\Downloads\VRMS- inaayos na fetch2\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\QCU\Downloads\VRMS- inaayos na fetch2\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\AForge.xml
+C:\Users\QCU\Downloads\VRMS- inaayos na fetch2\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.xml
+C:\Users\QCU\Downloads\VRMS- inaayos na fetch2\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\QCU\Downloads\VRMS- inaayos na fetch2\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\QCU\Downloads\VRMS- inaayos na fetch2\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\QCU\Downloads\VRMS- inaayos na fetch2\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\QCU\Downloads\VRMS- inaayos na fetch2\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\QCU\Downloads\VRMS- inaayos na fetch2\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\QCU\Downloads\VRMS- inaayos na fetch2\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\QCU\Downloads\VRMS- inaayos na fetch2\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\QCU\Downloads\VRMS- inaayos na fetch2\VRMS-Security-TRY SA EXIT\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\backup\VRMS - Security (For Finalization)\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\backup\VRMS - Security (For Finalization)\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\backup\VRMS - Security (For Finalization)\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\backup\VRMS - Security (For Finalization)\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\backup\VRMS - Security (For Finalization)\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\backup\VRMS - Security (For Finalization)\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\backup\VRMS - Security (For Finalization)\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\backup\VRMS - Security (For Finalization)\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\backup\VRMS - Security (For Finalization)\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\backup\VRMS - Security (For Finalization)\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\backup\VRMS - Security (For Finalization)\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\backup\VRMS - Security (For Finalization)\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v1\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v1\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v1\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v1\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v1\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v1\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v1\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v1\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v1\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v1\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v1\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v1\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v1\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v2\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v2\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v2\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v2\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v2\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v2\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v2\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v2\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v2\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v2\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v2\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v2\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v3\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v3\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v3\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v3\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v3\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v3\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v3\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v3\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v3\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v3\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v3\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v3\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v3\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4\VRMS - Security (28-02-22) (Ok na Entry at Exit)\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4.1\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4.1\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4.1\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4.1\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4.1\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4.1\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4.1\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4.1\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4.1\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4.1\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4.1\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4.1\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4.1\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Visitor.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4.1\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4.2\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4.2\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4.2\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4.2\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4.2\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4.2\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4.2\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4.2\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4.2\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4.2\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Visitor.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4.2\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4.2\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4.2\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v4.2\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Visitor.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.1\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.1\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.1\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.1\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.1\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.1\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.1\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.1\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.1\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.1\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.1\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.1\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Visitor.resources
+C:\Users\QCU\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.1\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.2\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\USER\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.2\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\USER\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.2\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\USER\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.2\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\USER\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.2\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\USER\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.2\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\USER\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.2\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\USER\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.2\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\USER\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.2\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\USER\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.2\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Visitor.resources
+C:\Users\USER\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.2\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan2.resources
+C:\Users\USER\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.2\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.2\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\USER\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.2\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\USER\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.3\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\USER\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.3\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\USER\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.3\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\USER\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.3\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\USER\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.3\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\USER\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.3\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\USER\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.3\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\USER\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.3\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\USER\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.3\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\USER\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.3\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Visitor.resources
+C:\Users\USER\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.3\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.3\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\USER\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.3\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\USER\Desktop\VRMS - Security (03-03-22)\VRMS - Security (For Finalization) v5.3\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v5.3\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v5.3\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v5.3\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v5.3\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v5.3\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v5.3\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v5.3\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v5.3\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v5.3\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v5.3\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v5.3\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v5.3\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v5.3\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Visitor.resources
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v5.3\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v5.5\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Visitor.resources
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v6\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v6\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v6\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v6\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v6\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v6\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v6\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v6\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v6\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v6\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v6\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v6\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v6\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Visitor.resources
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v6\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\VRMS - Security\VRMS - Security (For Finalization) v6.2\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\USER\Desktop\VRMS - Security\VRMS - Security (For Finalization) v6.3\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\USER\Desktop\VRMS - Security\VRMS - Security (For Finalization) v6.3\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\USER\Desktop\VRMS - Security\VRMS - Security (For Finalization) v6.3\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\USER\Desktop\VRMS - Security\VRMS - Security (For Finalization) v6.3\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\VRMS - Security\VRMS - Security (For Finalization) v6.3\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\USER\Desktop\VRMS - Security\VRMS - Security (For Finalization) v6.3\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\USER\Desktop\VRMS - Security\VRMS - Security (For Finalization) v6.3\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\USER\Desktop\VRMS - Security\VRMS - Security (For Finalization) v6.3\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\USER\Desktop\VRMS - Security\VRMS - Security (For Finalization) v6.3\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\USER\Desktop\VRMS - Security\VRMS - Security (For Finalization) v6.3\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\USER\Desktop\VRMS - Security\VRMS - Security (For Finalization) v6.3\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Visitor.resources
+C:\Users\USER\Desktop\VRMS - Security\VRMS - Security (For Finalization) v6.3\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\VRMS - Security\VRMS - Security (For Finalization) v6.3\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\USER\Desktop\VRMS - Security\VRMS - Security (For Finalization) v6.3\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v6.4\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v6.4\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v6.4\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v6.4\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v6.4\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v6.4\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v6.4\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v6.4\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v6.4\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v6.4\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v6.4\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v6.4\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v6.4\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Visitor.resources
+C:\Users\HP\Desktop\VRMS - Security (For Finalization) v6.4\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+G:\Latest Copy of System\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+G:\Latest Copy of System\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+G:\Latest Copy of System\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+G:\Latest Copy of System\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+G:\Latest Copy of System\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+G:\Latest Copy of System\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+G:\Latest Copy of System\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+G:\Latest Copy of System\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+G:\Latest Copy of System\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+G:\Latest Copy of System\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+G:\Latest Copy of System\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+G:\Latest Copy of System\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+G:\Latest Copy of System\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Visitor.resources
+G:\Latest Copy of System\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\VRMS - Security\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\USER\Desktop\VRMS - Security\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\USER\Desktop\VRMS - Security\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\USER\Desktop\VRMS - Security\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\USER\Desktop\VRMS - Security\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\USER\Desktop\VRMS - Security\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\USER\Desktop\VRMS - Security\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\USER\Desktop\VRMS - Security\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\USER\Desktop\VRMS - Security\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\USER\Desktop\VRMS - Security\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Visitor.resources
+C:\Users\USER\Desktop\VRMS - Security\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\VRMS - Security\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\USER\Desktop\VRMS - Security\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\USER\Desktop\VRMS - Security\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\VRMS - Security\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.LoadingScreen.resources
+C:\Users\USER\Desktop\VRMS - Security\backup\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\USER\Desktop\VRMS - Security\backup\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\USER\Desktop\VRMS - Security\backup\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+D:\Backups\VRMS - Security\backup\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+D:\Backups\VRMS - Security\backup\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+D:\Backups\VRMS - Security\backup\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security\backup\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\QCU\Desktop\VRMS - Security\backup\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security\backup\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security\backup\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security\backup\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security\backup\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\QCU\Desktop\VRMS - Security\backup\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\QCU\Desktop\VRMS - Security\backup\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\QCU\Desktop\VRMS - Security\backup\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.LoadingScreen.resources
+C:\Users\QCU\Desktop\VRMS - Security\backup\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\QCU\Desktop\VRMS - Security\backup\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\QCU\Desktop\VRMS - Security\backup\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\QCU\Desktop\VRMS - Security\backup\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\QCU\Desktop\VRMS - Security\backup\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Visitor.resources
+C:\Users\QCU\Desktop\VRMS - Security\backup\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.LoadingScreen.resources
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Visitor.resources
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6.5\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6.6 - Copy\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6.6 - Copy\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6.6 - Copy\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6.6 - Copy\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6.6 - Copy\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6.6 - Copy\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6.6 - Copy\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6.6 - Copy\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6.6 - Copy\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.LoadingScreen.resources
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6.6 - Copy\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6.6 - Copy\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6.6 - Copy\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6.6 - Copy\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6.6 - Copy\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Visitor.resources
+C:\Users\QCU\Desktop\VRMS - Security (For Finalization) v6.6 - Copy\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.8\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.8\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.8\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.8\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.8\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.8\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.LoadingScreen.resources
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.8\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.8\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.8\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.8\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.8\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Visitor.resources
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.8\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.VisMSG1invalid.resources
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.8\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.VisMSG2empty.resources
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.8\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.VisMSG3entry.resources
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.8\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.VisMSG4exit.resources
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.8\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.VisMSG5cancelexit.resources
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.8\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.8\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.8\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.8\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csprojResolveAssemblyReference.cache
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.LoadingScreen.resources
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Visitor.resources
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.VisMSG1invalid.resources
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.VisMSG2empty.resources
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.VisMSG3entry.resources
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.VisMSG4exit.resources
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.VisMSG5cancelexit.resources
+C:\Users\QCU\Desktop\VRMS - Security\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe.config
+C:\Users\USER\Desktop\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.exe
+C:\Users\USER\Desktop\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\bin\Debug\Quezon City University.pdb
+C:\Users\USER\Desktop\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.EntryScan.resources
+C:\Users\USER\Desktop\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Exit.resources
+C:\Users\USER\Desktop\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.LoadingScreen.resources
+C:\Users\USER\Desktop\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Login.resources
+C:\Users\USER\Desktop\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.MessageForExit.resources
+C:\Users\USER\Desktop\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Properties.Resources.resources
+C:\Users\USER\Desktop\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.showMessage.resources
+C:\Users\USER\Desktop\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.Visitor.resources
+C:\Users\USER\Desktop\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.VisMSG1invalid.resources
+C:\Users\USER\Desktop\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.VisMSG2empty.resources
+C:\Users\USER\Desktop\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.VisMSG3entry.resources
+C:\Users\USER\Desktop\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.VisMSG4exit.resources
+C:\Users\USER\Desktop\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\VRMS___Security__12_01_21_.VisMSG5cancelexit.resources
+C:\Users\USER\Desktop\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\VRMS - Security (12-01-21).csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.exe
+C:\Users\USER\Desktop\VRMS - Security (Final) v6.9\VRMS - Security(12-01-21)\obj\Debug\Quezon City University.pdb
